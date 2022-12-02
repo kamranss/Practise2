@@ -1,0 +1,15 @@
+C:\Users\kamra\source\repos\Practise2\Practise2\bin\Debug\net6.0\Practise2.exe
+C:\Users\kamra\source\repos\Practise2\Practise2\bin\Debug\net6.0\Practise2.deps.json
+C:\Users\kamra\source\repos\Practise2\Practise2\bin\Debug\net6.0\Practise2.runtimeconfig.json
+C:\Users\kamra\source\repos\Practise2\Practise2\bin\Debug\net6.0\Practise2.dll
+C:\Users\kamra\source\repos\Practise2\Practise2\bin\Debug\net6.0\Practise2.pdb
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\Practise2.csproj.AssemblyReference.cache
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\Practise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\Practise2.AssemblyInfoInputs.cache
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\Practise2.AssemblyInfo.cs
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\Practise2.csproj.CoreCompileInputs.cache
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\Practise2.dll
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\refint\Practise2.dll
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\Practise2.pdb
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\Practise2.genruntimeconfig.cache
+C:\Users\kamra\source\repos\Practise2\Practise2\obj\Debug\net6.0\ref\Practise2.dll
