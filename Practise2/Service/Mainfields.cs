@@ -10,6 +10,10 @@ namespace Practise2.Service
     {
         public string Location;
         public string Terminal;
-        public string VesselName;
+        public string PortOfDischarge;
+        public string PortOfLoading;
+        public string Origin;
+        public string Destination;
+
     }
 }
