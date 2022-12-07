@@ -36,12 +36,22 @@
 
 #region Resize Array and cw
 
+using Practise2;
+using Practise2.Service_2;
 
-
+Mystr str1 = new Mystr();
 
 #endregion
 
 #region Celcius to Kelvin to Fahrenheit
 //fahrenheit = (celsius * 9) / 5 + 32;
 //Console.WriteLine("Fahrenheit: " + fahrenheit);
+#endregion
+
+#region Operator overloading compare two class according to their filed
+
+Person p1 = new Person("Kamran", "Suleyman", 45, 4500);
+Person p2 = new Person("Kamil", "huseyn", 56, 2300);
+
+Console.WriteLine(p1 >= p2);
 #endregion

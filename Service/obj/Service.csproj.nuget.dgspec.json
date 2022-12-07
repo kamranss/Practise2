@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamra\\source\\repos\\Practise2\\Practise2\\Practise2.csproj": {}
+    "C:\\Users\\kamra\\source\\repos\\Practise2\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamra\\source\\repos\\Practise2\\Practise2\\Practise2.csproj": {
+    "C:\\Users\\kamra\\source\\repos\\Practise2\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamra\\source\\repos\\Practise2\\Practise2\\Practise2.csproj",
-        "projectName": "Practise2",
-        "projectPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Practise2\\Practise2.csproj",
+        "projectUniqueName": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\kamra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Practise2\\obj\\",
+        "outputPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kamra\\AppData\\Roaming\\NuGet\\NuGet.Config",
