@@ -53,5 +53,10 @@ Mystr str1 = new Mystr();
 Person p1 = new Person("Kamran", "Suleyman", 45, 4500);
 Person p2 = new Person("Kamil", "huseyn", 56, 2300);
 
+p1.BithDay = DateTime.Now.AddDays(-15);
+Console.WriteLine(p1.BithDay);
+
+//Arr[Arr.Length - 1] = Person.p1;
+
 Console.WriteLine(p1 >= p2);
 #endregion
