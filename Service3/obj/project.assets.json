@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service2\\Service2.csproj",
-      "projectName": "Service2",
-      "projectPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service2\\Service2.csproj",
+      "projectUniqueName": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service3\\Service3.csproj",
+      "projectName": "Service3",
+      "projectPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service3\\Service3.csproj",
       "packagesPath": "C:\\Users\\kamra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service2\\obj\\",
+      "outputPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kamra\\AppData\\Roaming\\NuGet\\NuGet.Config",

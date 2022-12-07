@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
 #region Extension for Class object
 
 //using Practise2;
@@ -20,18 +19,29 @@
 //surname.Printname2();
 #endregion
 
-using Practise2;
 
 #region Print ENUM values
-foreach (var item in Enum.GetNames(typeof(Itutype)))
-{
-    Console.WriteLine(item);
-}
+//foreach (var item in Enum.GetNames(typeof(Itutype)))
+//{
+//    Console.WriteLine(item);
+//}
 
-Console.WriteLine("-------------------");
+//Console.WriteLine("-------------------");
 
-for (int i = 0; i < Enum.GetNames(typeof(Itutype)).Length; i++)
-{
-    Console.WriteLine(Enum.GetNames(typeof(Itutype))[i]);
-}
+//for (int i = 0; i < Enum.GetNames(typeof(Itutype)).Length; i++)
+//{
+//    Console.WriteLine(Enum.GetNames(typeof(Itutype))[i]);
+//}
+#endregion
+
+#region Resize Array and cw
+
+
+
+
+#endregion
+
+#region Celcius to Kelvin to Fahrenheit
+//fahrenheit = (celsius * 9) / 5 + 32;
+//Console.WriteLine("Fahrenheit: " + fahrenheit);
 #endregion

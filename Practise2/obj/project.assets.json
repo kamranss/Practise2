@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Service3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Service3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service3.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Service3/1.0.0": {
+      "type": "project",
+      "path": "../Service3/Service3.csproj",
+      "msbuildProject": "../Service3/Service3.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Service3 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kamra\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kamra\\source\\repos\\Practise2\\Service3\\Service3.csproj": {
+              "projectPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Service3\\Service3.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
