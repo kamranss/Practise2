@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practise2.Service_2
 {
-    internal class Person:
+    public class Person
     {
         public string Name { get; set; }
         public string Surname { get; set; }
@@ -37,46 +37,6 @@ namespace Practise2.Service_2
         public static bool operator <=(Person p1, Person p2)
         {
             return p1.Age <= p2.Age;
-        }
-
-        public int CompareTo(T? other)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int CompareTo(T? other)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int CompareTo(T? other)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int CompareTo(T? other)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int CompareTo(T? other)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int CompareTo(T? other)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int CompareTo(object? obj)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int CompareTo(T? other)
-        {
-            throw new NotImplementedException();
         }
         #endregion
 

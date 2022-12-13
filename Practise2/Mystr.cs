@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practise2
 {
-    internal class Mystr
+    public class Mystr
     {
 
         public string Name { get; set; }
