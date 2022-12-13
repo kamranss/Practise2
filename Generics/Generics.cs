@@ -17,7 +17,7 @@ namespace Generics
         public void Add<T> (T num)
         {
             Array.Resize(ref arr, arr.Length + 1);
-            arr[arr.Length -1] = num;
+            //arr[arr.Length -1] = num; ->> correct this one
         }
     }
 }

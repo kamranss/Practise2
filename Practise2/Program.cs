@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+
+
 #region Extension for Class object
 
 //using Practise2;
@@ -59,4 +61,9 @@ Console.WriteLine(p1.BithDay);
 //Arr[Arr.Length - 1] = Person.p1;
 
 Console.WriteLine(p1 >= p2);
+#endregion
+
+#region Delegates test
+
+Console.WriteLine(Sum(IsEven, 1, 2, 3, 4, 5));
 #endregion

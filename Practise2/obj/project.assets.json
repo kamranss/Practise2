@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Delegates/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Delegates.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Delegates.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Delegates/1.0.0": {
+      "type": "project",
+      "path": "../Delegates/Delegates.csproj",
+      "msbuildProject": "../Delegates/Delegates.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Delegates >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kamra\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kamra\\source\\repos\\Practise2\\Delegates\\Delegates.csproj": {
+              "projectPath": "C:\\Users\\kamra\\source\\repos\\Practise2\\Delegates\\Delegates.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

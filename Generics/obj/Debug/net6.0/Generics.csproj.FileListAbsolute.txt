@@ -1,0 +1,5 @@
+C:\Users\kamra\source\repos\Practise2\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+C:\Users\kamra\source\repos\Practise2\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamra\source\repos\Practise2\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\Users\kamra\source\repos\Practise2\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\Users\kamra\source\repos\Practise2\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
